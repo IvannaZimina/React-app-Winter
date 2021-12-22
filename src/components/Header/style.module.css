@@ -1,0 +1,32 @@
+header {
+    height: 100px;
+    width: 100%;
+    background: no-repeat url('./winter.jpg');
+    background-position: center 15%;
+    display: flex;
+    position: fixed;
+    z-index: 1000;
+}
+
+.logo > img {
+    width: 90px;
+    margin: 5px 10px;
+    mix-blend-mode: overlay;
+}
+
+.navlinks {
+    display: flex;
+    width: 45%;
+    margin: 1.5% 2% 0 0;
+    justify-content: space-around;
+}
+
+.navlinks > a {
+    font-family: 'Lobster', cursive;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+a:hover {
+    color:rgb(1, 1, 148);
+}

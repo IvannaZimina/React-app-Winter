@@ -1,0 +1,11 @@
+.natureImages {
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+    overflow-y: auto;
+}
+
+.natureImages > img {
+    max-height: 250px;
+    max-width: 200px;
+}

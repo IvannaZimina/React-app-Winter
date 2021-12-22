@@ -1,0 +1,30 @@
+.winterTreeContainer {
+    padding: 2%;
+}
+
+.articleBlock {
+    height: 200px;
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    margin-bottom: 4%;
+}
+
+.articleImg {
+    width: 250px;
+}
+
+.articleImg > img {
+    width: 250px;
+}
+
+.articleDescription {
+    margin: 0 0 2% 5%;
+}
+
+.articleDescription > p {
+    text-indent: 5%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
