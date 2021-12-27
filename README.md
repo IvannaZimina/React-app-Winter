@@ -1,11 +1,11 @@
 ## Task
-Create web-app with navigation links (using navbar options).
+Create a web-app with navigation links (using navbar options).
 
 ## Stack
 React.js, CSS.
 
 ## Description
-Creating web-app with react components and using own styles.
+There was created a web-app with react components and using own styles.
 
 ## Environment
 Clone repositore on your machine. Use npm install to add all dependencies in project and open web-app. 
